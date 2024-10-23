@@ -17,11 +17,15 @@ h1 {
     background-size: cover;
 }
 .bgimage2{
+    height: 700px;
     background-image: url(/assets/Blue\ origin.png);
     background-size: cover;
+
 }
+
 .bgimage3{
-    background-image: url(/assets/Interests.png);
+    height: 700px;
+    background-image: url(/assets/Screenshot\ 2024-10-22\ at\ 8.42.24\ PM.png);
     background-size: cover;
 }
 p{
