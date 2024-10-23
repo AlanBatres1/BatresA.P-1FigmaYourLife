@@ -11,3 +11,19 @@ h1 {
     font-size: 20px;
     color: white;
 }
+
+.bgimage{
+    background-image: url(/assets/jeff-bezos.png);
+    background-size: cover;
+}
+.bgimage2{
+    background-image: url(/assets/Blue\ origin.png);
+    background-size: cover;
+}
+.bgimage3{
+    background-image: url(/assets/Interests.png);
+    background-size: cover;
+}
+p{
+    color: white;
+}
