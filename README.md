@@ -6,4 +6,4 @@ Description: I created a website that includes information about Jeff Bezos. Usi
 
 P#1 Figma Your Life
 
-Peer Review: 
+Peer Review:  Angel Cuevas: Everything looks great You had very good use of the accordions and everything seemed to function properly.
